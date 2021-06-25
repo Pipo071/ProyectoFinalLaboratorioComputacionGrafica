@@ -1,3 +1,3 @@
-#+title: Una situación cotidiana paralelizable
+# Avance de Proyecto Final
 
-Carpeta con el avance del proyecto final de la materia.
+Carpeta con el avance del proyecto final de la mater
