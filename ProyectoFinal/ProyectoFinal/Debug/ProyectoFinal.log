@@ -1,0 +1,10 @@
+﻿  NavaEscobarJoseAlfredo_ProyectoFinal_Gp8.cpp
+C:\Users\nava1\Documents\Semestre 2021-2\Computación Gráfica\Lab\ProyectoFinal\ProyectoFinal\ProyectoFinal\NavaEscobarJoseAlfredo_ProyectoFinal_Gp8.cpp(484,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\nava1\Documents\Semestre 2021-2\Computación Gráfica\Lab\ProyectoFinal\ProyectoFinal\ProyectoFinal\NavaEscobarJoseAlfredo_ProyectoFinal_Gp8.cpp(1032,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\nava1\Documents\Semestre 2021-2\Computación Gráfica\Lab\ProyectoFinal\ProyectoFinal\ProyectoFinal\NavaEscobarJoseAlfredo_ProyectoFinal_Gp8.cpp(1033,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\nava1\Documents\Semestre 2021-2\Computación Gráfica\Lab\ProyectoFinal\ProyectoFinal\ProyectoFinal\NavaEscobarJoseAlfredo_ProyectoFinal_Gp8.cpp(1037,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\nava1\Documents\Semestre 2021-2\Computación Gráfica\Lab\ProyectoFinal\ProyectoFinal\ProyectoFinal\NavaEscobarJoseAlfredo_ProyectoFinal_Gp8.cpp(1038,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\nava1\Documents\Semestre 2021-2\Computación Gráfica\Lab\ProyectoFinal\ProyectoFinal\ProyectoFinal\NavaEscobarJoseAlfredo_ProyectoFinal_Gp8.cpp(1040,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\nava1\Documents\Semestre 2021-2\Computación Gráfica\Lab\ProyectoFinal\ProyectoFinal\ProyectoFinal\NavaEscobarJoseAlfredo_ProyectoFinal_Gp8.cpp(1041,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\nava1\Documents\Semestre 2021-2\Computación Gráfica\Lab\ProyectoFinal\ProyectoFinal\ProyectoFinal\NavaEscobarJoseAlfredo_ProyectoFinal_Gp8.cpp(1052,13): warning C4305: '-=': truncamiento de 'double' a 'float'
+  ProyectoFinal.vcxproj -> C:\Users\nava1\Documents\Semestre 2021-2\Computación Gráfica\Lab\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.exe
